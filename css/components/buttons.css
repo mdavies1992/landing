@@ -1,0 +1,35 @@
+.btn-top {
+  color:antiquewhite;
+  background-color: rgb(98, 70, 29);
+  padding: 12px;
+  border-radius: 20px;
+}
+
+.btn-top:hover {
+  background-color: rgb(153, 90, 30);
+  padding: 12px;
+  font-size: larger;
+  transition: 0.5s;
+}
+
+.list-inline {
+  list-style: none;
+  padding: 0;
+}
+
+.list-inline li {
+  display: inline-block;
+}
+
+.list-inline i {
+  color: #8d5316;
+  font-size: 40px;
+  margin-right: 6px;
+  margin-left: 6px;
+}
+
+.list-inline i:hover {
+color: #d27007;
+font-size: 48px;
+transition: 0.5;
+}
